@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"Event 3","image":"https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg","date":"2023-04-15","description":"Tomorrow fffff","id":"e44ffcb3-14a6-43f8-878d-c2cb224dbae7"},{"title":"Event 2","image":"https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg","date":"2023-04-07","description":"Today","id":"6c721016-bd8c-4c95-a389-6a9814c56a2e"},{"title":"A new event edited","image":"https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg","date":"2022-10-01","description":"Some awesome event!","id":"2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"}],"users":[{"email":"satwinder.saini@gmail.com","password":"$2a$12$F1tGv1TTVfS/r05KKGJ7BepEc7.cft2NqpBwln8T5jaf8RFnY4wQW","id":"fae21069-d21a-421f-8073-6c73cb0c4100"},{"email":"test@test.com","password":"$2a$12$ABtFamzC.XD6OuGY1c2.X.1JFcGytSa.WYbSDMEs4oVrhBQSqrwXO","id":"3f55abf2-e993-4edc-bfd8-a09456a690ed"},{"email":"test@test1.com","password":"$2a$12$C5u23jRP/Z6pJvgDrOxEduKG74bPruyfOVpKREUKwfVNvUsevUQyC","id":"04a33d71-8168-414d-8118-f63603b0212a"},{"email":"test@gmail.com","password":"$2a$12$Yn4Gy09q4ne/U2hCtXgFcudqby/RvwMjnp1OsNMw7YEv4s.Vgjkye","id":"3bb54c53-f150-4e5d-aead-d0f67effe2d2"}]}

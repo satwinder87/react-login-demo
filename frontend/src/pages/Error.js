@@ -2,6 +2,7 @@ import { useRouteError } from 'react-router-dom';
 import MainNavigation from '../components/MainNavigation';
 
 import PageContent from '../components/PageContent';
+import {removeToken} from "../util/auth";
 
 function ErrorPage() {
   const error = useRouteError();
@@ -9,8 +10,11 @@ function ErrorPage() {
   let title = 'An error occurred!';
   let message = 'Something went wrong!';
 
-  if (error.status === 500) {
+  console.log(error.data);
+
+  if (error.status === 401) {
     message = error.data.message;
+    removeToken();
   }
 
   if (error.status === 404) {
